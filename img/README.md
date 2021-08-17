@@ -1,3 +1,4 @@
+```
 {
   "picBed": {
     "current": "githubPlus",
@@ -21,3 +22,5 @@
     "autoRename": true
   }
 }
+
+```
