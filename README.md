@@ -3,7 +3,7 @@
 
 # token
 
-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
+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
 
 # PicGo 配置
 
@@ -14,6 +14,6 @@ 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
       "path": "img/",
       "origin": "github",
       "repo": "zhanghuizong/pic_bed",
-      "token": "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"
+      "token": "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"
 }
 ```
