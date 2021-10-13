@@ -3,4 +3,17 @@
 
 # token
 
-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
+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
+
+# PicGo 配置
+
+```
+{
+      "branch": "main",
+      "customUrl": "https://raw.githubusercontent.com/zhanghuizong/pic_bed/main/",
+      "path": "img/",
+      "origin": "github",
+      "repo": "zhanghuizong/pic_bed",
+      "token": "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"
+}
+```
